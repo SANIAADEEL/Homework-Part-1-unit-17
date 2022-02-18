@@ -1,0 +1,75 @@
+
+.inline-block{
+    display: inline-block;
+    
+    color: #f80000;
+    padding: 15px;
+    text-align: center;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #f80000;
+}
+.topnav a {
+
+    float: left;
+    color: aqua;
+    text-align: center;
+    padding: 12px 14px;
+    text-decoration: none;
+    font-size: 20px;
+}
+.topnav a:hover {
+    background-color: blue;
+    color: black;
+}
+.topnav a.active {
+    background-color: green;
+    color: bisque;
+}
+
+logo {
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+}
+nav{
+    width: 73%;
+    padding: 1%;
+}
+ul{
+    width: 50%;
+    margin-left: auto;
+}
+
+ 
+.heroImg {
+    height: 600px;
+    padding: 25px;
+
+}
+.content {
+    width: 500px;
+    margin: 0 auto;
+}
+ul{
+    width: 50%;
+    margin-left: auto;
+}
+.logo {
+    text-align: left;
+}
+.heroImg {
+    height: 600px;
+    padding: 25px;
+
+}
+.content {
+    width: 500px;
+    margin: 0 auto;
+   
+}
+
+    
+
